@@ -1,4 +1,4 @@
-# Cloud Run browser use
+# Cloud Run browser dispencer
 
 ## How it works
 
