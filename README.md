@@ -73,8 +73,7 @@ gcloud alpha run deploy browser \
   --source . \
   --cpu 4 \
   --memory 8Gi \
-  --min-instances 1 \
-  --max-instances 1 \
+  --max 1 \
   --execution-environment gen2 \
   --timeout 3600 \
   --service-account=browser@$PROJECT_ID.iam.gserviceaccount.com \
